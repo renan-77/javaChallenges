@@ -1,7 +1,7 @@
 class Fibonacci{
     public static void main(String[] args) {
 
-        System.out.println(fibonacciIteration(12));
+        System.out.println(fibonacciIteration(18));
         
     }
 
